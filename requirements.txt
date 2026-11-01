@@ -1,0 +1,6 @@
+# notebooks were run on Python 3.7; DataFrame.append requires pandas < 2.0
+pandas<2
+numpy
+scipy
+matplotlib
+jupyter
